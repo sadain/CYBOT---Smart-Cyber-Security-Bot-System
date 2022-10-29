@@ -451,7 +451,7 @@ hr {
 }
 
 .card-btn1 {
-    background: #712fda;
+    background: #7c0b25;
     border-radius: 6px;
     padding: 30px 40px;
     text-transform: uppercase
@@ -4137,9 +4137,9 @@ hr {
 }
 
 .best-pricing::before {
-    background-image: -moz-linear-gradient(0deg, #f0f0f0 0%, #7c0b25  100%);
-    background-image: -webkit-linear-gradient(0deg, #ffffff 0%, #7c0b25  100%);
-    background-image: -ms-linear-gradient(0deg, #ffffff 0%, #7c0b25  100%)
+    background-image: -moz-linear-gradient(0deg, #9376c7 0%, #7c0b25  100%);
+    background-image: -webkit-linear-gradient(0deg, #9376c7 0%, #7c0b25  100%);
+    background-image: -ms-linear-gradient(0deg, #9376c7 0%, #7c0b25  100%)
 }
 
 .available-app-area {

@@ -2,7 +2,7 @@
     padding:0;
     margin:0;
     box-sizing: border-box;
-    border-radius: 30px;
+    
 }
 
 body {
@@ -86,6 +86,7 @@ body {
      color: white;
      text-transform: uppercase;
      border:none;
+     border-radius: 10px;
  }
 
  .button:hover {
