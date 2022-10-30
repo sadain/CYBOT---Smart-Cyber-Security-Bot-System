@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybot</title>
+    <link rel="shortcut icon" href="./assects/img/cybot.png">
+    <link rel="stylesheet" href="./main-style.css">
+    <!-- Boxicons cdn -->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+
+    <script src=""></script>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo_content">
+            <div class="logo">
+                <img src="./assects/img/Cybot-logo.png" alt="cybot-si-logo">
+            </div>
+            <i class='bx bx-menu' id="btn"></i>
+        </div>
+        <ul class="nav_list">
+            <li>
+                <a href="./Soc Dashboard.html"><i class='bx bx-grid-alt'></i>
+                <span class="link_name">Dashboard</span>
+                </a>
+                <span class="tooltip">Dashboard</span>
+            </li>
+            <li>
+                <a href="./Soc Report breache.html"><i class='bx bxs-report'></i>
+                <span class="link_name">Report Breaches</span>
+                </a>
+                <span class="tooltip">Report Breaches</span>
+            </li>
+            <li>
+                <a href="./Employee Soc Support.html"><i class='bx bx-message-alt-minus'></i>
+                <span class="link_name">SOC Support</span>
+                </a>
+                <span class="tooltip">SOC Support</span>
+            </li>
+            <li>
+                <a href="./EDR - SIME - Cybot.html"><i class='bx bxs-analyse'></i>
+                    <span class="link_name">EDR - SIEM</span>
+                </a>
+                <span class="tooltip">EDR - SIEM</span>
+            </li>
+            <li>
+                <a href="./wifi-ids.html"><i class='bx bx-wifi'></i>
+                <span class="link_name">Wi-fi Scanner</span>
+                </a>
+                <span class="tooltip">Wi-fi Scanner</span>
+            </li>
+        </ul>
+        <div class="profile_content">
+            <div class="profile">
+                <div class="profile_details">
+                    <img src="./assects/img/profile-img.jpg" alt="profile">
+                    <div class="name_job">
+                        <div class="name">Cyberites</div>
+                    </div>
+                </div>
+                <a href="../index.html" class="logout"><i class="bx bx-log-out" id="log_out"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="home_content"><iframe src="http://192.168.43.143:5000/ids.py" frameborder="0" width="1250" height="100%"></iframe>
+        
+        <!-- <iframe src="https://00d3-157-51-77-171.ngrok.io/ids.py" frameborder="0" width="1250" height="100%"></iframe> -->
+    </div>
+    </div>
+    <script>
+        let btn = document.querySelector("#btn");
+        let sidebar = document.querySelector(".sidebar");
+
+        btn.onclick = function () {
+            sidebar.classList.toggle("active");
+        }
+    </script>
+</body>
+
+</html>
