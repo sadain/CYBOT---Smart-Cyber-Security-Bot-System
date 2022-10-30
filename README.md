@@ -30,31 +30,8 @@ Mohamed Rayan K
 ```
 
 # Abstrac:
-
-    CYBOT-A Smart Cyber Security Bot System will offer high-quality IT and data protection and
-Data Visualization for businesses and provides an in-depth and customizable collection of managed
-cybersecurity services. With a team of security experts, it provides Wi-Fi monitoring and forensics
-,Security information and Event management system (SIEM), End-Point Detection and response (EDR),
-Log Processing ,Automated Threat surveillance ,Remote manageable system with live monitoring,
-mobile threat defence, comprehensive vulnerability management, and application security among
-other services ,it not only supports endpoint protection but also threat investigation across firewalls,
-servers, and more data sources and help organizations and security practitioners through the
-complexities of cybersecurity to ensure their security posture is future-ready.
-    This is a hardware based smart security bot system especially for the Security Operation
-Centre (SOC) Teams in Companies, this monitor and detects various cyber-attacks. This bot analyses
-file’s binaries and assembly code and Compare/Analysis those with various hashing algorithm for
-malicious signatures & examine code for suspicious properties through antivirus API. It also MITRE
-attack, Heuristics & Behaviour based detection.
-    The Admin panel of Cybot will access to Cyber Security Operation Centre Dashboard built with
-the help BI Tool, the dashboard will consist of multiple pages like Homepage showcasing the high
-level KPIs and redirection to other subpages, Department Analysis will provide insight of the
-department where breaches occurs, Breach Analysis will provide insight of type of breaches which
-occurs more often, A Summary page will provide basic understanding of analysis of the Cybersecurity
-breaches occurred in the past and how many breaches are currently open and closed, Average time
-for breach closure, Number of employees are affected by it, Employee ranking will provide ranking of
-the employee who solved the most breaches and all other details and the User Panel will have a report
-option to flag a breach or threat through a form which will be data source for the Admin Cyber Security
-Operation Centre Dashboard.
+ 
+    
 
 
 
