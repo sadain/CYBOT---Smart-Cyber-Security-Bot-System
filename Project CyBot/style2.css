@@ -1,0 +1,117 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(145deg, #080127 26%, #000000 74%);
+    font-family: 'poppins', 'sans-sarif';
+}
+
+#create-account-form {
+    width:400px;
+    padding:20px;
+    text-transform: uppercase;
+    background-color: #fff;
+}
+
+.one {
+    margin-bottom: 20px;
+}
+
+.box {
+    margin:20px 0; 
+    position:relative;
+}
+
+.box label {
+    display:inline-block;
+    margin-bottom: 5px;
+}
+
+.box input {
+    display:block;
+    width:100%;
+    padding:10px;   
+}
+
+.error input {
+    border:3px red solid;
+}
+
+.success input {
+    border:3px green solid;
+}
+
+ .box i {
+     position:absolute;
+     right:10px;
+     top:35px;
+     visibility: hidden;
+ }
+
+
+ .success i.fa-check-circle{
+     visibility: visible;
+     color:green;
+ }
+
+ .error i.fa-exclamation-circle {
+    visibility: visible;
+    color:red;
+}
+
+
+ .box p {
+     font-size: 15px;
+     color:red;
+     visibility: hidden;
+ }
+
+ .error p {
+     visibility: visible;
+ }
+
+ .button {
+     width:100%;
+     padding:10px;
+     font-size: 20px;
+     background-color: #7c0b25;
+     color: white;
+     text-transform: uppercase;
+     border:none;
+     border-radius: 10px;
+ }
+
+ .button:hover {
+    background-color: rgb(66, 29, 230);
+    color:#000000;
+ }
+
+.two {
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.two a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
