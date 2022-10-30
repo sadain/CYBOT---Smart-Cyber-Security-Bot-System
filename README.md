@@ -36,7 +36,7 @@ Mohamed Rayan K
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/sadain/CYBOT---Smart-Cyber-Security-Bot-System.svg?style=for-the-badge
-[contributors-url]:https://github.com/IBM-EPBL/sadain/CYBOT---Smart-Cyber-Security-Bot-System/contributors
+[contributors-url]:https://github.com/sadain/CYBOT---Smart-Cyber-Security-Bot-System/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sadain/CYBOT---Smart-Cyber-Security-Bot-System.svg?style=for-the-badge
 [forks-url]:https://github.com/IBM-EPBL/sadain/CYBOT---Smart-Cyber-Security-Bot-System/members
 [stars-shield]: https://img.shields.io/github/stars/sadain/CYBOT---Smart-Cyber-Security-Bot-System.svg?style=for-the-badge
