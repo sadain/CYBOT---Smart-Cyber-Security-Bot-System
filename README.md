@@ -13,7 +13,7 @@
  ># **Smart Cyber Security Bot System**      
 <h3>
 
-**Team Name: `The Cyberites` <br> Technology: `Cyber Security`**
+**Team Name: `The Cyberites` <br> Domain: `Cyber Security`**
 
 </h3>
 </div>
