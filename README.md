@@ -30,7 +30,7 @@
 
 # Project Link:
 
-<h1><a href="http://cybot.epizy.com">cybot.epizy.com<</a></h1>
+<h1><a href="http://cybot.epizy.com">cybot.epizy.com</a></h1>
 
 # Abstrac:
   
