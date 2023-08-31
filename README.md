@@ -23,10 +23,10 @@
 
 
 - SADAIN ABDULLAH N
-- Md Adnan K
+- Md ADNAN K
 - EARNEST WESLEY S
 - ZAHEEB AFNAN A
-- Mohamed Rayan K
+- MOHAMED RAYAN K
 
 # Project Link:
 
